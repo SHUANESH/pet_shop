@@ -1,0 +1,28 @@
+.AnimalsImgDiv{
+   
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 100px;
+    grid-gap: 20px;
+    
+}
+.AnimalsImgDiv >  img{
+    width: 160px;
+    height: 220px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    
+}
+p{
+    margin: 20px;
+    padding: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h1,h6{
+    margin: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

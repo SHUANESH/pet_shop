@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.link{
+    padding: 15px;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+    background-color: rgba(40, 104, 150, 0.68);
+}
+.link:hover{
+    color: white;
+    font-size: 14px;
+}
